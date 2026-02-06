@@ -1,0 +1,18 @@
+1. Write a program to assign grades based on marks:
+
+A for ≥ 90
+
+B for ≥ 75
+
+C for ≥ 60
+
+Fail for < 60
+
+2. Write a program to check whether a given character is a vowel or consonant.
+
+3. Write a program to calculate electricity bill using conditions:
+(e.g., different rates for different unit ranges)
+
+4. Write a program to check if three sides can form a valid triangle.
+
+5. Write a program to determine whether a number is a multiple of both 3 and 5.
